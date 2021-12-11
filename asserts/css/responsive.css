@@ -1,10 +1,10 @@
 @media only screen and  (max-width: 576px) {
     .btn.btn__btn1 {
-            padding: 12px 50px;
+            padding: 12px 55px;
     }
     
     .btn.btn__btn2 {
-        padding: 12px 30px;
+        padding: 12px 35px;
     }
 
     .box__container{
@@ -49,6 +49,9 @@
         background: rgb(255, 255, 255);
       }
     /* menu end */
+    .box__container{
+        display: block;
+    }
 
     .box__item {
         box-shadow: none;
